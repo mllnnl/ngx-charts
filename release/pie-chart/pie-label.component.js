@@ -35,7 +35,17 @@ var PieLabelComponent = /** @class */ (function () {
         if (this.data.pos[1] === 0 || innerPos[1] === 0) {
             scale = 1;
         }
-        var outerPos = [scale * innerPos[0], scale * innerPos[1]];
+        var outerX = scale * innerPos[0];
+        var outerY = scale * innerPos[1];
+        if ((outerX < 0) && (outerX < innerPos[0]))
+            outerX = innerPos[0];
+        if ((outerX > 0) && (outerX > innerPos[0]))
+            outerX = innerPos[0];
+        if ((outerY < 0) && (outerY < innerPos[1]))
+            outerY = innerPos[1];
+        if ((outerY > 0) && (outerY > innerPos[1]))
+            outerY = innerPos[1];
+        var outerPos = [outerX, outerY];
         this.line = "M" + innerPos + "L" + outerPos + "L" + this.data.pos;
     };
     Object.defineProperty(PieLabelComponent.prototype, "textX", {
@@ -74,7 +84,7 @@ var PieLabelComponent = /** @class */ (function () {
         configurable: true
     });
     PieLabelComponent.prototype.textAnchor = function () {
-        return this.midAngle(this.data) < Math.PI ? 'start' : 'end';
+        return this.midAngle(this.data) <= Math.PI ? 'start' : 'end';
     };
     PieLabelComponent.prototype.midAngle = function (d) {
         return d.startAngle + (d.endAngle - d.startAngle) / 2;

@@ -80,7 +80,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /************************************************************************/
 /******/ ({
 
-/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true}!./src/common/base-chart.component.scss":
+/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js??ref--3-4!./src/common/base-chart.component.scss":
 /***/ (function(module, exports, __webpack_require__) {
 
 exports = module.exports = __webpack_require__("./node_modules/css-loader/lib/css-base.js")(false);
@@ -95,7 +95,7 @@ exports.push([module.i, ".ngx-charts {\n  float: left;\n  overflow: visible; }\n
 
 /***/ }),
 
-/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true}!./src/common/legend/advanced-legend.component.scss":
+/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js??ref--3-4!./src/common/legend/advanced-legend.component.scss":
 /***/ (function(module, exports, __webpack_require__) {
 
 exports = module.exports = __webpack_require__("./node_modules/css-loader/lib/css-base.js")(false);
@@ -110,7 +110,7 @@ exports.push([module.i, ".advanced-pie-legend {\n  float: left;\n  position: rel
 
 /***/ }),
 
-/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true}!./src/common/legend/legend.component.scss":
+/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js??ref--3-4!./src/common/legend/legend.component.scss":
 /***/ (function(module, exports, __webpack_require__) {
 
 exports = module.exports = __webpack_require__("./node_modules/css-loader/lib/css-base.js")(false);
@@ -125,7 +125,7 @@ exports.push([module.i, ".chart-legend {\n  display: inline-block;\n  padding: 0
 
 /***/ }),
 
-/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true}!./src/common/legend/scale-legend.component.scss":
+/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js??ref--3-4!./src/common/legend/scale-legend.component.scss":
 /***/ (function(module, exports, __webpack_require__) {
 
 exports = module.exports = __webpack_require__("./node_modules/css-loader/lib/css-base.js")(false);
@@ -140,7 +140,7 @@ exports.push([module.i, ".chart-legend {\n  display: inline-block;\n  padding: 0
 
 /***/ }),
 
-/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true}!./src/common/timeline/timeline.component.scss":
+/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js??ref--3-4!./src/common/timeline/timeline.component.scss":
 /***/ (function(module, exports, __webpack_require__) {
 
 exports = module.exports = __webpack_require__("./node_modules/css-loader/lib/css-base.js")(false);
@@ -155,7 +155,7 @@ exports.push([module.i, ".timeline .brush-background {\n  fill: rgba(0, 0, 0, 0.
 
 /***/ }),
 
-/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true}!./src/common/tooltip/tooltip.component.scss":
+/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js??ref--3-4!./src/common/tooltip/tooltip.component.scss":
 /***/ (function(module, exports, __webpack_require__) {
 
 exports = module.exports = __webpack_require__("./node_modules/css-loader/lib/css-base.js")(false);
@@ -170,7 +170,7 @@ exports.push([module.i, ".ngx-charts-tooltip-content {\n  position: fixed;\n  bo
 
 /***/ }),
 
-/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true}!./src/force-directed-graph/force-directed-graph.component.scss":
+/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js??ref--3-4!./src/force-directed-graph/force-directed-graph.component.scss":
 /***/ (function(module, exports, __webpack_require__) {
 
 exports = module.exports = __webpack_require__("./node_modules/css-loader/lib/css-base.js")(false);
@@ -185,7 +185,7 @@ exports.push([module.i, ".force-directed-graph .edge {\n  stroke: #333; }\n", ""
 
 /***/ }),
 
-/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true}!./src/gauge/gauge.component.scss":
+/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js??ref--3-4!./src/gauge/gauge.component.scss":
 /***/ (function(module, exports, __webpack_require__) {
 
 exports = module.exports = __webpack_require__("./node_modules/css-loader/lib/css-base.js")(false);
@@ -200,7 +200,7 @@ exports.push([module.i, ".gauge .background-arc path {\n  fill: rgba(0, 0, 0, 0.
 
 /***/ }),
 
-/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true}!./src/gauge/linear-gauge.component.scss":
+/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js??ref--3-4!./src/gauge/linear-gauge.component.scss":
 /***/ (function(module, exports, __webpack_require__) {
 
 exports = module.exports = __webpack_require__("./node_modules/css-loader/lib/css-base.js")(false);
@@ -215,7 +215,7 @@ exports.push([module.i, ".linear-gauge {\n  cursor: pointer; }\n  .linear-gauge 
 
 /***/ }),
 
-/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true}!./src/number-card/card.component.scss":
+/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js??ref--3-4!./src/number-card/card.component.scss":
 /***/ (function(module, exports, __webpack_require__) {
 
 exports = module.exports = __webpack_require__("./node_modules/css-loader/lib/css-base.js")(false);
@@ -230,7 +230,7 @@ exports.push([module.i, "ngx-charts-number-card .cell .trimmed-label {\n  font-s
 
 /***/ }),
 
-/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true}!./src/pie-chart/advanced-pie-chart.component.scss":
+/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js??ref--3-4!./src/pie-chart/advanced-pie-chart.component.scss":
 /***/ (function(module, exports, __webpack_require__) {
 
 exports = module.exports = __webpack_require__("./node_modules/css-loader/lib/css-base.js")(false);
@@ -245,7 +245,7 @@ exports.push([module.i, ".advanced-pie {\n  display: inline-block;\n  float: lef
 
 /***/ }),
 
-/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true}!./src/pie-chart/pie-chart.component.scss":
+/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js??ref--3-4!./src/pie-chart/pie-chart.component.scss":
 /***/ (function(module, exports, __webpack_require__) {
 
 exports = module.exports = __webpack_require__("./node_modules/css-loader/lib/css-base.js")(false);
@@ -260,7 +260,7 @@ exports.push([module.i, ".pie-label {\n  font-size: 11px; }\n  .pie-label.animat
 
 /***/ }),
 
-/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true}!./src/pie-chart/pie-grid.component.scss":
+/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js??ref--3-4!./src/pie-chart/pie-grid.component.scss":
 /***/ (function(module, exports, __webpack_require__) {
 
 exports = module.exports = __webpack_require__("./node_modules/css-loader/lib/css-base.js")(false);
@@ -275,7 +275,7 @@ exports.push([module.i, ".pie-grid .arc1 {\n  opacity: 0.4; }\n\n.pie-grid .perc
 
 /***/ }),
 
-/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true}!./src/polar-chart/polar-chart.component.scss":
+/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js??ref--3-4!./src/polar-chart/polar-chart.component.scss":
 /***/ (function(module, exports, __webpack_require__) {
 
 exports = module.exports = __webpack_require__("./node_modules/css-loader/lib/css-base.js")(false);
@@ -290,7 +290,7 @@ exports.push([module.i, ".polar-chart .polar-chart-background {\n  fill: none; }
 
 /***/ }),
 
-/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true}!./src/tree-map/tree-map.component.scss":
+/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js??ref--3-4!./src/tree-map/tree-map.component.scss":
 /***/ (function(module, exports, __webpack_require__) {
 
 exports = module.exports = __webpack_require__("./node_modules/css-loader/lib/css-base.js")(false);
@@ -8887,7 +8887,7 @@ var YAxisComponent = /** @class */ (function () {
 /***/ (function(module, exports, __webpack_require__) {
 
 
-        var result = __webpack_require__("./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true}!./src/common/base-chart.component.scss");
+        var result = __webpack_require__("./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js??ref--3-4!./src/common/base-chart.component.scss");
 
         if (typeof result === "string") {
             module.exports = result;
@@ -10450,7 +10450,7 @@ function formatLabel(label) {
 /***/ (function(module, exports, __webpack_require__) {
 
 
-        var result = __webpack_require__("./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true}!./src/common/legend/advanced-legend.component.scss");
+        var result = __webpack_require__("./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js??ref--3-4!./src/common/legend/advanced-legend.component.scss");
 
         if (typeof result === "string") {
             module.exports = result;
@@ -10706,7 +10706,7 @@ var LegendEntryComponent = /** @class */ (function () {
 /***/ (function(module, exports, __webpack_require__) {
 
 
-        var result = __webpack_require__("./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true}!./src/common/legend/legend.component.scss");
+        var result = __webpack_require__("./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js??ref--3-4!./src/common/legend/legend.component.scss");
 
         if (typeof result === "string") {
             module.exports = result;
@@ -10847,7 +10847,7 @@ var LegendComponent = /** @class */ (function () {
 /***/ (function(module, exports, __webpack_require__) {
 
 
-        var result = __webpack_require__("./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true}!./src/common/legend/scale-legend.component.scss");
+        var result = __webpack_require__("./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js??ref--3-4!./src/common/legend/scale-legend.component.scss");
 
         if (typeof result === "string") {
             module.exports = result;
@@ -11175,7 +11175,7 @@ function tickFormat(fieldType, groupByType) {
 /***/ (function(module, exports, __webpack_require__) {
 
 
-        var result = __webpack_require__("./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true}!./src/common/timeline/timeline.component.scss");
+        var result = __webpack_require__("./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js??ref--3-4!./src/common/timeline/timeline.component.scss");
 
         if (typeof result === "string") {
             module.exports = result;
@@ -12251,7 +12251,7 @@ var StyleTypes;
 /***/ (function(module, exports, __webpack_require__) {
 
 
-        var result = __webpack_require__("./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true}!./src/common/tooltip/tooltip.component.scss");
+        var result = __webpack_require__("./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js??ref--3-4!./src/common/tooltip/tooltip.component.scss");
 
         if (typeof result === "string") {
             module.exports = result;
@@ -12886,7 +12886,7 @@ function calculateViewDimensions(_a) {
 /***/ (function(module, exports, __webpack_require__) {
 
 
-        var result = __webpack_require__("./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true}!./src/force-directed-graph/force-directed-graph.component.scss");
+        var result = __webpack_require__("./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js??ref--3-4!./src/force-directed-graph/force-directed-graph.component.scss");
 
         if (typeof result === "string") {
             module.exports = result;
@@ -13439,7 +13439,7 @@ var GaugeAxisComponent = /** @class */ (function () {
 /***/ (function(module, exports, __webpack_require__) {
 
 
-        var result = __webpack_require__("./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true}!./src/gauge/gauge.component.scss");
+        var result = __webpack_require__("./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js??ref--3-4!./src/gauge/gauge.component.scss");
 
         if (typeof result === "string") {
             module.exports = result;
@@ -13876,7 +13876,7 @@ var GaugeModule = /** @class */ (function () {
 /***/ (function(module, exports, __webpack_require__) {
 
 
-        var result = __webpack_require__("./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true}!./src/gauge/linear-gauge.component.scss");
+        var result = __webpack_require__("./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js??ref--3-4!./src/gauge/linear-gauge.component.scss");
 
         if (typeof result === "string") {
             module.exports = result;
@@ -15930,7 +15930,7 @@ var CardSeriesComponent = /** @class */ (function () {
 /***/ (function(module, exports, __webpack_require__) {
 
 
-        var result = __webpack_require__("./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true}!./src/number-card/card.component.scss");
+        var result = __webpack_require__("./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js??ref--3-4!./src/number-card/card.component.scss");
 
         if (typeof result === "string") {
             module.exports = result;
@@ -16355,7 +16355,7 @@ var NumberCardModule = /** @class */ (function () {
 /***/ (function(module, exports, __webpack_require__) {
 
 
-        var result = __webpack_require__("./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true}!./src/pie-chart/advanced-pie-chart.component.scss");
+        var result = __webpack_require__("./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js??ref--3-4!./src/pie-chart/advanced-pie-chart.component.scss");
 
         if (typeof result === "string") {
             module.exports = result;
@@ -16755,7 +16755,7 @@ var PieArcComponent = /** @class */ (function () {
 /***/ (function(module, exports, __webpack_require__) {
 
 
-        var result = __webpack_require__("./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true}!./src/pie-chart/pie-chart.component.scss");
+        var result = __webpack_require__("./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js??ref--3-4!./src/pie-chart/pie-chart.component.scss");
 
         if (typeof result === "string") {
             module.exports = result;
@@ -17174,7 +17174,7 @@ var PieGridSeriesComponent = /** @class */ (function () {
 /***/ (function(module, exports, __webpack_require__) {
 
 
-        var result = __webpack_require__("./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true}!./src/pie-chart/pie-grid.component.scss");
+        var result = __webpack_require__("./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js??ref--3-4!./src/pie-chart/pie-grid.component.scss");
 
         if (typeof result === "string") {
             module.exports = result;
@@ -17397,7 +17397,17 @@ var PieLabelComponent = /** @class */ (function () {
         if (this.data.pos[1] === 0 || innerPos[1] === 0) {
             scale = 1;
         }
-        var outerPos = [scale * innerPos[0], scale * innerPos[1]];
+        var outerX = scale * innerPos[0];
+        var outerY = scale * innerPos[1];
+        if ((outerX < 0) && (outerX < innerPos[0]))
+            outerX = innerPos[0];
+        if ((outerX > 0) && (outerX > innerPos[0]))
+            outerX = innerPos[0];
+        if ((outerY < 0) && (outerY < innerPos[1]))
+            outerY = innerPos[1];
+        if ((outerY > 0) && (outerY > innerPos[1]))
+            outerY = innerPos[1];
+        var outerPos = [outerX, outerY];
         this.line = "M" + innerPos + "L" + outerPos + "L" + this.data.pos;
     };
     Object.defineProperty(PieLabelComponent.prototype, "textX", {
@@ -17436,7 +17446,7 @@ var PieLabelComponent = /** @class */ (function () {
         configurable: true
     });
     PieLabelComponent.prototype.textAnchor = function () {
-        return this.midAngle(this.data) < Math.PI ? 'start' : 'end';
+        return this.midAngle(this.data) <= Math.PI ? 'start' : 'end';
     };
     PieLabelComponent.prototype.midAngle = function (d) {
         return d.startAngle + (d.endAngle - d.startAngle) / 2;
@@ -17730,7 +17740,7 @@ var PieSeriesComponent = /** @class */ (function () {
 /***/ (function(module, exports, __webpack_require__) {
 
 
-        var result = __webpack_require__("./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true}!./src/polar-chart/polar-chart.component.scss");
+        var result = __webpack_require__("./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js??ref--3-4!./src/polar-chart/polar-chart.component.scss");
 
         if (typeof result === "string") {
             module.exports = result;
@@ -18810,7 +18820,7 @@ var TreeMapCellComponent = /** @class */ (function () {
 /***/ (function(module, exports, __webpack_require__) {
 
 
-        var result = __webpack_require__("./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true}!./src/tree-map/tree-map.component.scss");
+        var result = __webpack_require__("./node_modules/css-loader/index.js!./node_modules/postcss-loader/index.js!./node_modules/sass-loader/lib/loader.js??ref--3-4!./src/tree-map/tree-map.component.scss");
 
         if (typeof result === "string") {
             module.exports = result;
