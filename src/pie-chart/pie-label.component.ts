@@ -79,7 +79,14 @@ export class PieLabelComponent implements OnChanges {
     if (this.data.pos[1] === 0 || innerPos[1] === 0) {
       scale = 1;
     }
-    const outerPos = [scale * innerPos[0], scale * innerPos[1]];
+    let outerX = scale * innerPos[0];
+    let outerY = scale * innerPos[1];
+    if((outerX < 0) && (outerX < innerPos[0])) outerX = innerPos[0];
+    if((outerX > 0) && (outerX > innerPos[0])) outerX = innerPos[0];
+    if((outerY < 0) && (outerY < innerPos[1])) outerY = innerPos[1];
+    if((outerY > 0) && (outerY > innerPos[1])) outerY = innerPos[1];
+
+    const outerPos = [outerX, outerY];
 
     this.line = `M${innerPos}L${outerPos}L${this.data.pos}`;
   }
@@ -105,7 +112,7 @@ export class PieLabelComponent implements OnChanges {
   }
 
   textAnchor(): any {
-    return this.midAngle(this.data) < Math.PI ? 'start' : 'end';
+    return this.midAngle(this.data) <= Math.PI ? 'start' : 'end';
   }
 
   midAngle(d): number {
