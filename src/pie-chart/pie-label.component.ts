@@ -81,10 +81,10 @@ export class PieLabelComponent implements OnChanges {
     }
     let outerX = scale * innerPos[0];
     let outerY = scale * innerPos[1];
-    if((outerX < 0) && (outerX < this.data[0])) outerX = this.data[0];
-    if((outerX > 0) && (outerX > this.data[0])) outerX = this.data[0];
-    if((outerY < 0) && (outerY < this.data[1])) outerY = this.data[1];
-    if((outerY > 0) && (outerY > this.data[1])) outerY = this.data[1];
+    if((outerX < 0) && (outerX < this.data.pos[0])) outerX = this.data.pos[0];
+    if((outerX > 0) && (outerX > this.data.pos[0])) outerX = this.data.pos[0];
+    if((outerY < 0) && (outerY < this.data.pos[1])) outerY = this.data.pos[1];
+    if((outerY > 0) && (outerY > this.data.pos[1])) outerY = this.data.pos[1];
 
     const outerPos = [outerX, outerY];
 

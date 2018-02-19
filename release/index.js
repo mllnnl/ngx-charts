@@ -17399,14 +17399,14 @@ var PieLabelComponent = /** @class */ (function () {
         }
         var outerX = scale * innerPos[0];
         var outerY = scale * innerPos[1];
-        if ((outerX < 0) && (outerX < this.data[0]))
-            outerX = this.data[0];
-        if ((outerX > 0) && (outerX > this.data[0]))
-            outerX = this.data[0];
-        if ((outerY < 0) && (outerY < this.data[1]))
-            outerY = this.data[1];
-        if ((outerY > 0) && (outerY > this.data[1]))
-            outerY = this.data[1];
+        if ((outerX < 0) && (outerX < this.data.pos[0]))
+            outerX = this.data.pos[0];
+        if ((outerX > 0) && (outerX > this.data.pos[0]))
+            outerX = this.data.pos[0];
+        if ((outerY < 0) && (outerY < this.data.pos[1]))
+            outerY = this.data.pos[1];
+        if ((outerY > 0) && (outerY > this.data.pos[1]))
+            outerY = this.data.pos[1];
         var outerPos = [outerX, outerY];
         this.line = "M" + innerPos + "L" + outerPos + "L" + this.data.pos;
     };
